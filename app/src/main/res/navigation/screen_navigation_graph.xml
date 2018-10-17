@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/searchFragment">
+
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.jneuberger.imagesearchjetpack.view.fragment.SearchFragment"
+        android:label="SearchFragment"
+        tools:layout="@layout/fragment_search">
+        <action
+            android:id="@+id/action_searchFragment_to_imageGridFragment"
+            app:destination="@id/imageGridFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/imageGridFragment"
+        android:name="com.jneuberger.imagesearchjetpack.view.fragment.ImageGridFragment"
+        android:label="ImageGridFragment" />
+    <fragment
+        android:id="@+id/errorFragment"
+        android:name="com.jneuberger.imagesearchjetpack.view.fragment.ErrorFragment"
+        android:label="ErrorFragment" ></fragment>
+</navigation>

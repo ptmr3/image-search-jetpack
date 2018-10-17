@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Image Search Jetpack</string>
+    <string name="download_button_text">Download all selected images</string>
+    <string name="download_completed">Download Completed</string>
+    <string name="download_dialog_negative_button">Cancel</string>
+    <string name="download_dialog_positive_button">Download</string>
+    <string name="download_this_image_dialog_title">Download this Image?</string>
+    <string name="edit_mode_title">Select Images To Download</string>
+    <string name="new_search_button">NEW SEARCH</string>
+    <string name="no_internet_description">Please move to a more open area, or connect to an available Wi-Fi network</string>
+    <string name="no_internet_title">An internet connection is needed</string>
+    <string name="no_results_description">"Nothing was found for your search. Maybe try entering something else?"</string>
+    <string name="no_results_title">No Results</string>
+    <string name="permission_dialog_description">This application needs access to save images to your device</string>
+    <string name="permission_dialog_positive_button">OK</string>
+    <string name="permission_dialog_title">Permission Needed</string>
+    <string name="please_enter_text">Please enter some text</string>
+    <string name="retry_button">RETRY</string>
+    <string name="search_input_hint">What would you like to search for?</string>
+    <string name="search_now_button">Search Now</string>
+    <string name="unknown_error_description">An error occurred while searching. Maybe try again?</string>
+    <string name="unknown_error_title">Unknown Error</string>
+    <string name="wifi_settings_button">WI-FI SETTINGS</string>
+    <string name="permission_denied">Permission denied to read your External storage</string>
+</resources>

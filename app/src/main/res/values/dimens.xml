@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="description_text_size">12sp</dimen>
+    <dimen name="download_button_margin">16dp</dimen>
+    <dimen name="download_button_text_size">16sp</dimen>
+    <dimen name="error_button_text_size">16sp</dimen>
+    <dimen name="error_button_margin">16dp</dimen>
+    <dimen name="error_description_margin">24dp</dimen>
+    <dimen name="error_description_text_size">16sp</dimen>
+    <dimen name="error_image_size">144dp</dimen>
+    <dimen name="error_title_margin_top">64dp</dimen>
+    <dimen name="error_title_text_size">24sp</dimen>
+    <dimen name="image_grid_margin_start_end">2dp</dimen>
+    <dimen name="image_height">192dp</dimen>
+    <dimen name="search_button_margin">16dp</dimen>
+    <dimen name="search_button_text_size">16sp</dimen>
+    <dimen name="search_input_padding_horizontal">16dp</dimen>
+    <dimen name="text_padding">4dp</dimen>
+    <dimen name="user_text_size">12sp</dimen>
+</resources>
