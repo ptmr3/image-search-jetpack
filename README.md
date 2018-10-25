@@ -24,4 +24,4 @@ testing libraries that are only included while running unit tests.
 
 ####   Let's get more specific
 
-![ImageSearchArch](https://github.com/ptmr3/image-search-jetpack/blob/master/doc/ImageSearchArch.png)
+![ImageSearchJetpackArch](https://github.com/ptmr3/image-search-jetpack/blob/master/doc/ImageSearchJetpackArch.png)
